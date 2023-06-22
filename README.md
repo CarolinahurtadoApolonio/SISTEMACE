@@ -1,2 +1,4 @@
 # SISTEMACE
 Serealizaproyecto
+institucion
+serequiere5vistas:alumnos,profesores,adminnivela,adminnivelb,directordecarreraysecretario
